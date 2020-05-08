@@ -14,6 +14,7 @@
         <spark.version>2.4.5</spark.version>
         <hadoop.version>2.7.2</hadoop.version>
         <encoding>UTF-8</encoding>
+        <mysql.version>8.0.12</mysql.version>
     </properties>
 
     <dependencies>
@@ -36,6 +37,13 @@
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-client</artifactId>
             <version>${hadoop.version}</version>
+        </dependency>
+
+        <!-- mysql的连接驱动依赖 -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>${mysql.version}</version>
         </dependency>
 
     </dependencies>
