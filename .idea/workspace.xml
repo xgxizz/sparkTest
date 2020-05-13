@@ -1,105 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c06d476-7698-41b8-8746-d760d04d2831" name="Default Changelist" comment="Spark基础">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/sort/JdbcRddDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/sparkTest.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/FavTeacher$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/FavTeacher$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/FavTeacher$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/FavTeacher$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/FavTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher01$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher01$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher01$$anonfun$4$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher01$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher02$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher02$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher02$$anonfun$main$1$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher02$$anonfun$main$1$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher02$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher03$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher03$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher03$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher03$$anonfun$4$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher03$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher04$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher04$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher04$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher04$$anonfun$4$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher04$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher04$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/GroupFavTeacher04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/ScalaWordCount$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/ScalaWordCount$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/ScalaWordCount$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/ScalaWordCount$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/ScalaWordCount$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/ScalaWordCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/SubjectPartitioner$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/SubjectPartitioner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/TestSplit$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/fav_teacher/TestSplit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation01$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation02$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation02$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation02$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation02$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation02$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/IpLocation02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/MyUtils$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/MyUtils$$anonfun$data2MySQL$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/MyUtils$$anonfun$ip2Long$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/MyUtils$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/MyUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/TestIP$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ip/TestIP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort01$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort01$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort02$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort02$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort02$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort03$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort03$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort03$User$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort03$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort04$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort04$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort04$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort04$XianRou$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort04$XianRou.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort05$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort05$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort05$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort05$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/CustomSort05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/JdbcRddDemo$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/JdbcRddDemo$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/JdbcRddDemo$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/JdbcRddDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/SortRules$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/SortRules$orderingXianRou$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/sort/SortRules.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="5c06d476-7698-41b8-8746-d760d04d2831" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sql/DataSetWordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sql/Spark2SqlDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sql/SqlDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sql/SqlDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sql/SqlDemo03.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sql/SqlWordCount.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -147,7 +55,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/sql" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -155,8 +63,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sql" />
       <recent name="sort" />
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\sparkTest\src\main\scala\sql" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -171,52 +83,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JdbcRddDemo">
-    <configuration name="CustomSort02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="sort.CustomSort02" />
+  <component name="RunManager" selected="Application.DataSetWordCount">
+    <configuration name="DataSetWordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sql.DataSetWordCount" />
       <module name="sparkTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomSort03" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="sort.CustomSort03" />
-      <module name="sparkTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomSort04" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="sort.CustomSort04" />
-      <module name="sparkTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomSort05" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="sort.CustomSort05" />
-      <module name="sparkTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="sql.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +129,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcRddDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="sort.JdbcRddDemo" />
+    <configuration name="ScalaWordCount" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fav_teacher.ScalaWordCount" />
+      <module name="sparkTest" />
+      <option name="PROGRAM_PARAMETERS" value="F:\teacher.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spark2SqlDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sql.Spark2SqlDemo" />
       <module name="sparkTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="sql.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,10 +150,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScalaWordCount" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="fav_teacher.ScalaWordCount" />
+    <configuration name="SqlDemo02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sql.SqlDemo02" />
       <module name="sparkTest" />
-      <option name="PROGRAM_PARAMETERS" value="F:\teacher.log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqlDemo03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sql.SqlDemo03" />
+      <module name="sparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqlWordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sql.SqlWordCount" />
+      <module name="sparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -290,19 +202,19 @@
       <item itemvalue="Application.GroupFavTeacher03" />
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.IpLocation01" />
-      <item itemvalue="Application.CustomSort02" />
-      <item itemvalue="Application.CustomSort03" />
-      <item itemvalue="Application.CustomSort04" />
-      <item itemvalue="Application.CustomSort05" />
-      <item itemvalue="Application.JdbcRddDemo" />
+      <item itemvalue="Application.SqlDemo02" />
+      <item itemvalue="Application.SqlDemo03" />
+      <item itemvalue="Application.Spark2SqlDemo" />
+      <item itemvalue="Application.SqlWordCount" />
+      <item itemvalue="Application.DataSetWordCount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JdbcRddDemo" />
-        <item itemvalue="Application.CustomSort05" />
-        <item itemvalue="Application.CustomSort04" />
-        <item itemvalue="Application.CustomSort03" />
-        <item itemvalue="Application.CustomSort02" />
+        <item itemvalue="Application.DataSetWordCount" />
+        <item itemvalue="Application.SqlWordCount" />
+        <item itemvalue="Application.Spark2SqlDemo" />
+        <item itemvalue="Application.SqlDemo03" />
+        <item itemvalue="Application.SqlDemo02" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +235,12 @@
       <workItem from="1588777015500" duration="4831000" />
       <workItem from="1588861305072" duration="7819000" />
       <workItem from="1588951183465" duration="4215000" />
-      <workItem from="1588958024078" duration="687000" />
+      <workItem from="1588958024078" duration="871000" />
+      <workItem from="1589036269245" duration="598000" />
+      <workItem from="1589097625380" duration="624000" />
+      <workItem from="1589102595774" duration="1898000" />
+      <workItem from="1589199960822" duration="2555000" />
+      <workItem from="1589383456282" duration="6436000" />
     </task>
     <task id="LOCAL-00001" summary="Spark基础">
       <created>1588868119251</created>
@@ -346,7 +263,28 @@
       <option name="project" value="LOCAL" />
       <updated>1588869161490</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Spark基础">
+      <created>1588958759687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588958759687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1111">
+      <created>1588958837634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588958837634</updated>
+    </task>
+    <task id="LOCAL-00006" summary="删除编译文件">
+      <created>1588958886224</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588958886224</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,6 +305,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Spark基础" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spark基础" />
+    <MESSAGE value="1111" />
+    <MESSAGE value="删除编译文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除编译文件" />
   </component>
 </project>
